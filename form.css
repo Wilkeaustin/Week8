@@ -112,5 +112,10 @@ p #titles
     margin: auto;
 }
 
+img
+{
+border: black solid 1px;
+}
+
 
 
